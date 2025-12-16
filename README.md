@@ -33,7 +33,7 @@
 
 | Фото | ФИО | Роль | Навыки |
 |------|-----|------|--------|
-| <img src="https://via.placeholder.com/100" width="100"> | **Бондарев Иван Андреевич**<br>[@Bondarev4](https://github.com/Bondarev4) | Главный разработчик| • Professional computer user
+| <img src="аватарка2.jpg" width="200"> | **Бондарев Иван Андреевич**<br>[@Bondarev4](https://github.com/Bondarev4) | Главный разработчик| • Professional computer user
 
 
 ### **Группа:** Д-Э 311
