@@ -1,0 +1,12 @@
+# Основные зависимости
+opencv-python==4.9.0.80
+mediapipe==0.10.11
+pyautogui==0.9.54
+numpy==1.26.2
+
+# Дополнительные (рекомендуется)
+pygetwindow==0.0.9
+pyrect==0.2.0
+pyscreeze==0.1.30
+Pillow==10.1.0
+scipy==1.11.4
